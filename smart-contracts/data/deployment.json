@@ -1,0 +1,11 @@
+{
+  "token": "0x5FbDB2315678afecb367f032d93F642f64180aa3",
+  "airdrop": "0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512",
+  "network": "localhost",
+  "deployer": "0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266",
+  "timestamp": "2025-03-21T15:12:18.651Z",
+  "merkleRoot": "0x7946463aeb9aa7a466ccf728c657b2b43084d5f0f86ab9e34bc0c2b6f90d0f09",
+  "amountPerUser": "100000000000000000000",
+  "endTime": "1745161938",
+  "initialSupply": "1000000000000000000000000"
+}

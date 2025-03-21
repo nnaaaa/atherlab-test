@@ -1,0 +1,15 @@
+{
+  "totalBatches": 1,
+  "totalAddresses": 2,
+  "successfulDistributions": 2,
+  "failedDistributions": 0,
+  "batchResults": [
+    {
+      "batchIndex": 0,
+      "batchSize": 2,
+      "successCount": 2,
+      "txHash": "0x8839316cce6cd0d0d827e4ac30d1c331e1c7ef738de1f00114998514fe5158de",
+      "gasUsed": "161212"
+    }
+  ]
+}

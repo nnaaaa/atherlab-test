@@ -1,0 +1,12 @@
+{
+  "totalAddresses": 10,
+  "results": [
+    {
+      "batchSize": 10,
+      "gasUsed": "646613",
+      "gasPerAddress": "64661",
+      "txHash": "0xfc3fc37b457eb24315180935f2b3d478ab3e42b9a2da682a3e78e3c555bb9819",
+      "status": "success"
+    }
+  ]
+}
